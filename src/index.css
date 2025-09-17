@@ -14,6 +14,8 @@ body{
     text-textMain md:text-extradark-gray
     font-medium
     bg-offsetPlus md:bg-background
+    cursor-pointer
+    transition-colors
 }
 .homepage{
     @apply flex justify-center items-center flex-col h-full
